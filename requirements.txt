@@ -1,0 +1,4 @@
+fastapi
+aio_pika
+uvicorn
+python-dotenv
